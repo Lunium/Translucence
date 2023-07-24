@@ -14,7 +14,7 @@
 
 :root {
 	--app-bg: url(https://wallpaperaccess.com/full/806443.jpg);
-	--app-blur: 4px;
+	--app-blur: 4.0px;
 	--app-margin: 24px;
 	--app-radius: 8px; /*	-	*/
 	
