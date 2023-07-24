@@ -14,7 +14,7 @@
 
 :root {
 	--app-bg: url(https://images4.alphacoders.com/123/1230602.jpg);
-	--app-blur: 1px;
+	--app-blur: 4px;
 	--app-margin: 24px;
 	--app-radius: 8px; /*	-	*/
 	
